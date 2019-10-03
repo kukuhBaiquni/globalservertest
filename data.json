@@ -1,0 +1,46 @@
+[
+   {
+      "address": {
+         "coordinates": {
+            "latitude": 0,
+            "longitude": 0
+         },
+         "province": "Jawa Barat",
+         "city": "Bandung",
+         "street": "Jl. Kaki no.1000",
+         "district": "Arcamanik",
+         "village": "Cisaranten Bina Harapan",
+         "zone": "wilayah 1",
+         "path": "gang 1",
+         "zoneCode": "C1W1D1"
+      },
+      "join": 1570119320696,
+      "_id": "5d961e98b66b4b22b8d8d2b0",
+      "firstName": "Galat",
+      "lastName": "Gabon Latoz",
+      "phone": "082119030614",
+      "__v": 0
+   },
+   {
+      "address": {
+         "coordinates": {
+            "latitude": 0,
+            "longitude": 0
+         },
+         "province": "Jawa Barat",
+         "city": "Bandung",
+         "street": "Jl. Kaki no.1000",
+         "district": "Arcamanik",
+         "village": "Cisaranten Bina Harapan",
+         "zone": "wilayah 1",
+         "path": "gang 1",
+         "zoneCode": "C1W1D1"
+      },
+      "join": 1570119798824,
+      "_id": "5d962076a3e93c11b484f268",
+      "firstName": "Galat",
+      "lastName": "Gabon Latoz",
+      "phone": "082119030614",
+      "__v": 0
+   }
+]

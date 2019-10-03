@@ -15,8 +15,6 @@ describe('test', () => {
             lastName: 'Latoz',
             address: {
                 street: 'Jl. Gabon no.222 rt.02 rw.14',
-                province: 'Jawa Barat',
-                city: 'Bandung',
                 district: 'Arcamanik',
                 village: 'Cisaranten Bina Harapan',
                 zone: 'Wilayah 1',
