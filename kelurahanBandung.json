@@ -1,0 +1,732 @@
+[
+   {
+      "kode_kelurahan": 3273010001,
+      "kode_kecamatan": 3273010,
+      "nama_kelurahan": "Gempol Sari"
+   },
+   {
+      "kode_kelurahan": 3273010002,
+      "kode_kecamatan": 3273010,
+      "nama_kelurahan": "Cigondewah Kaler"
+   },
+   {
+      "kode_kelurahan": 3273010003,
+      "kode_kecamatan": 3273010,
+      "nama_kelurahan": "Cigondewah Kidul"
+   },
+   {
+      "kode_kelurahan": 3273010004,
+      "kode_kecamatan": 3273010,
+      "nama_kelurahan": "Cigondewah Rahayu"
+   },
+   {
+      "kode_kelurahan": 3273010005,
+      "kode_kecamatan": 3273010,
+      "nama_kelurahan": "Caringin"
+   },
+   {
+      "kode_kelurahan": 3273010006,
+      "kode_kecamatan": 3273010,
+      "nama_kelurahan": "Warung Muncang"
+   },
+   {
+      "kode_kelurahan": 3273010007,
+      "kode_kecamatan": 3273010,
+      "nama_kelurahan": "Cibuntu"
+   },
+   {
+      "kode_kelurahan": 3273010008,
+      "kode_kecamatan": 3273010,
+      "nama_kelurahan": "Cijerah"
+   },
+   {
+      "kode_kelurahan": 3273020001,
+      "kode_kecamatan": 3273020,
+      "nama_kelurahan": "Margasuka"
+   },
+   {
+      "kode_kelurahan": 3273020002,
+      "kode_kecamatan": 3273020,
+      "nama_kelurahan": "Cirangrang"
+   },
+   {
+      "kode_kelurahan": 3273020003,
+      "kode_kecamatan": 3273020,
+      "nama_kelurahan": "Margahayu Utara"
+   },
+   {
+      "kode_kelurahan": 3273020004,
+      "kode_kecamatan": 3273020,
+      "nama_kelurahan": "Babakan Ciparay"
+   },
+   {
+      "kode_kelurahan": 3273020005,
+      "kode_kecamatan": 3273020,
+      "nama_kelurahan": "Babakan"
+   },
+   {
+      "kode_kelurahan": 3273020006,
+      "kode_kecamatan": 3273020,
+      "nama_kelurahan": "Sukahaji"
+   },
+   {
+      "kode_kelurahan": 3273030001,
+      "kode_kecamatan": 3273030,
+      "nama_kelurahan": "Kopo"
+   },
+   {
+      "kode_kelurahan": 3273030002,
+      "kode_kecamatan": 3273030,
+      "nama_kelurahan": "Suka Asih"
+   },
+   {
+      "kode_kelurahan": 3273030003,
+      "kode_kecamatan": 3273030,
+      "nama_kelurahan": "Babakan Asih"
+   },
+   {
+      "kode_kelurahan": 3273030004,
+      "kode_kecamatan": 3273030,
+      "nama_kelurahan": "Babakan Tarogong"
+   },
+   {
+      "kode_kelurahan": 3273030005,
+      "kode_kecamatan": 3273030,
+      "nama_kelurahan": "Jamika"
+   },
+   {
+      "kode_kelurahan": 3273040001,
+      "kode_kecamatan": 3273040,
+      "nama_kelurahan": "Cibaduyut Kidul"
+   },
+   {
+      "kode_kelurahan": 3273040002,
+      "kode_kecamatan": 3273040,
+      "nama_kelurahan": "Cibaduyut Wetan"
+   },
+   {
+      "kode_kelurahan": 3273040003,
+      "kode_kecamatan": 3273040,
+      "nama_kelurahan": "Mekar Wangi"
+   },
+   {
+      "kode_kelurahan": 3273040004,
+      "kode_kecamatan": 3273040,
+      "nama_kelurahan": "Cibaduyut"
+   },
+   {
+      "kode_kelurahan": 3273040005,
+      "kode_kecamatan": 3273040,
+      "nama_kelurahan": "Kebon Lega"
+   },
+   {
+      "kode_kelurahan": 3273040006,
+      "kode_kecamatan": 3273040,
+      "nama_kelurahan": "Situsaeur"
+   },
+   {
+      "kode_kelurahan": 3273050001,
+      "kode_kecamatan": 3273050,
+      "nama_kelurahan": "Karasak"
+   },
+   {
+      "kode_kelurahan": 3273050002,
+      "kode_kecamatan": 3273050,
+      "nama_kelurahan": "Pelindung Hewan"
+   },
+   {
+      "kode_kelurahan": 3273050004,
+      "kode_kecamatan": 3273050,
+      "nama_kelurahan": "Panjunan"
+   },
+   {
+      "kode_kelurahan": 3273050005,
+      "kode_kecamatan": 3273050,
+      "nama_kelurahan": "Cibadak"
+   },
+   {
+      "kode_kelurahan": 3273050006,
+      "kode_kecamatan": 3273050,
+      "nama_kelurahan": "Karang Anyar"
+   },
+   {
+      "kode_kelurahan": 3273060001,
+      "kode_kecamatan": 3273060,
+      "nama_kelurahan": "Ciseureuh"
+   },
+   {
+      "kode_kelurahan": 3273060002,
+      "kode_kecamatan": 3273060,
+      "nama_kelurahan": "Pasirluyu"
+   },
+   {
+      "kode_kelurahan": 3273060003,
+      "kode_kecamatan": 3273060,
+      "nama_kelurahan": "Ancol"
+   },
+   {
+      "kode_kelurahan": 3273060004,
+      "kode_kecamatan": 3273060,
+      "nama_kelurahan": "Cigereleng"
+   },
+   {
+      "kode_kelurahan": 3273060005,
+      "kode_kecamatan": 3273060,
+      "nama_kelurahan": "Ciateul"
+   },
+   {
+      "kode_kelurahan": 3273060007,
+      "kode_kecamatan": 3273060,
+      "nama_kelurahan": "Balong Gede"
+   },
+   {
+      "kode_kelurahan": 3273070001,
+      "kode_kecamatan": 3273070,
+      "nama_kelurahan": "Cijagra"
+   },
+   {
+      "kode_kelurahan": 3273070002,
+      "kode_kecamatan": 3273070,
+      "nama_kelurahan": "Turangga"
+   },
+   {
+      "kode_kelurahan": 3273070003,
+      "kode_kecamatan": 3273070,
+      "nama_kelurahan": "Lingkar Selatan"
+   },
+   {
+      "kode_kelurahan": 3273070004,
+      "kode_kecamatan": 3273070,
+      "nama_kelurahan": "Malabar"
+   },
+   {
+      "kode_kelurahan": 3273070005,
+      "kode_kecamatan": 3273070,
+      "nama_kelurahan": "Burangrang"
+   },
+   {
+      "kode_kelurahan": 3273070006,
+      "kode_kecamatan": 3273070,
+      "nama_kelurahan": "Cikawao"
+   },
+   {
+      "kode_kelurahan": 3273070007,
+      "kode_kecamatan": 3273070,
+      "nama_kelurahan": "Paledang"
+   },
+   {
+      "kode_kelurahan": 3273080001,
+      "kode_kecamatan": 3273080,
+      "nama_kelurahan": "Wates"
+   },
+   {
+      "kode_kelurahan": 3273080003,
+      "kode_kecamatan": 3273080,
+      "nama_kelurahan": "Batununggal"
+   },
+   {
+      "kode_kelurahan": 3273080004,
+      "kode_kecamatan": 3273080,
+      "nama_kelurahan": "Kujangsari"
+   },
+   {
+      "kode_kelurahan": 3273090001,
+      "kode_kecamatan": 3273090,
+      "nama_kelurahan": "Cijaura"
+   },
+   {
+      "kode_kelurahan": 3273090002,
+      "kode_kecamatan": 3273090,
+      "nama_kelurahan": "Margasari"
+   },
+   {
+      "kode_kelurahan": 3273090003,
+      "kode_kecamatan": 3273090,
+      "nama_kelurahan": "Sekejati"
+   },
+   {
+      "kode_kelurahan": 3273090004,
+      "kode_kecamatan": 3273090,
+      "nama_kelurahan": "Jati Sari"
+   },
+   {
+      "kode_kelurahan": 3273100001,
+      "kode_kecamatan": 3273100,
+      "nama_kelurahan": "Derwati"
+   },
+   {
+      "kode_kelurahan": 3273100002,
+      "kode_kecamatan": 3273100,
+      "nama_kelurahan": "Cipamokolan"
+   },
+   {
+      "kode_kelurahan": 3273100005,
+      "kode_kecamatan": 3273100,
+      "nama_kelurahan": "Manjahlega"
+   },
+   {
+      "kode_kelurahan": 3273100006,
+      "kode_kecamatan": 3273100,
+      "nama_kelurahan": "Mekarjaya"
+   },
+   {
+      "kode_kelurahan": 3273101001,
+      "kode_kecamatan": 3273101,
+      "nama_kelurahan": "Rancabolang"
+   },
+   {
+      "kode_kelurahan": 3273101002,
+      "kode_kecamatan": 3273101,
+      "nama_kelurahan": "Rancanumpang"
+   },
+   {
+      "kode_kelurahan": 3273101003,
+      "kode_kecamatan": 3273101,
+      "nama_kelurahan": "Cisaranten Kidul"
+   },
+   {
+      "kode_kelurahan": 3273101004,
+      "kode_kecamatan": 3273101,
+      "nama_kelurahan": "Cimincrang"
+   },
+   {
+      "kode_kelurahan": 3273110003,
+      "kode_kecamatan": 3273110,
+      "nama_kelurahan": "Pasir Biru"
+   },
+   {
+      "kode_kelurahan": 3273110004,
+      "kode_kecamatan": 3273110,
+      "nama_kelurahan": "Cipadung"
+   },
+   {
+      "kode_kelurahan": 3273110005,
+      "kode_kecamatan": 3273110,
+      "nama_kelurahan": "Palasari"
+   },
+   {
+      "kode_kelurahan": 3273110006,
+      "kode_kecamatan": 3273110,
+      "nama_kelurahan": "Cisurupan"
+   },
+   {
+      "kode_kelurahan": 3273111001,
+      "kode_kecamatan": 3273111,
+      "nama_kelurahan": "Mekar Mulya"
+   },
+   {
+      "kode_kelurahan": 3273111002,
+      "kode_kecamatan": 3273111,
+      "nama_kelurahan": "Cipadung Kidul"
+   },
+   {
+      "kode_kelurahan": 3273111003,
+      "kode_kecamatan": 3273111,
+      "nama_kelurahan": "Cipadung Wetan"
+   },
+   {
+      "kode_kelurahan": 3273111004,
+      "kode_kecamatan": 3273111,
+      "nama_kelurahan": "Cipadung Kulon"
+   },
+   {
+      "kode_kelurahan": 3273120003,
+      "kode_kecamatan": 3273120,
+      "nama_kelurahan": "Pasanggrahan"
+   },
+   {
+      "kode_kelurahan": 3273120004,
+      "kode_kecamatan": 3273120,
+      "nama_kelurahan": "Pasirjati"
+   },
+   {
+      "kode_kelurahan": 3273120005,
+      "kode_kecamatan": 3273120,
+      "nama_kelurahan": "Pasir Wangi"
+   },
+   {
+      "kode_kelurahan": 3273120006,
+      "kode_kecamatan": 3273120,
+      "nama_kelurahan": "Cigending"
+   },
+   {
+      "kode_kelurahan": 3273120007,
+      "kode_kecamatan": 3273120,
+      "nama_kelurahan": "Pasir Endah"
+   },
+   {
+      "kode_kelurahan": 3273121001,
+      "kode_kecamatan": 3273121,
+      "nama_kelurahan": "Cisaranten Wetan"
+   },
+   {
+      "kode_kelurahan": 3273121002,
+      "kode_kecamatan": 3273121,
+      "nama_kelurahan": "Babakan Penghulu"
+   },
+   {
+      "kode_kelurahan": 3273121003,
+      "kode_kecamatan": 3273121,
+      "nama_kelurahan": "Pakemitan"
+   },
+   {
+      "kode_kelurahan": 3273121004,
+      "kode_kecamatan": 3273121,
+      "nama_kelurahan": "Sukamulya"
+   },
+   {
+      "kode_kelurahan": 3273130001,
+      "kode_kecamatan": 3273130,
+      "nama_kelurahan": "Cisaranten Kulon"
+   },
+   {
+      "kode_kelurahan": 3273130002,
+      "kode_kecamatan": 3273130,
+      "nama_kelurahan": "Cisaranten Bina Harapan"
+   },
+   {
+      "kode_kelurahan": 3273130003,
+      "kode_kecamatan": 3273130,
+      "nama_kelurahan": "Sukamiskin"
+   },
+   {
+      "kode_kelurahan": 3273130005,
+      "kode_kecamatan": 3273130,
+      "nama_kelurahan": "Cisaranten Endah"
+   },
+   {
+      "kode_kelurahan": 3273141001,
+      "kode_kecamatan": 3273141,
+      "nama_kelurahan": "Antapani Kidul"
+   },
+   {
+      "kode_kelurahan": 3273141002,
+      "kode_kecamatan": 3273141,
+      "nama_kelurahan": "Antapani Tengah"
+   },
+   {
+      "kode_kelurahan": 3273141003,
+      "kode_kecamatan": 3273141,
+      "nama_kelurahan": "Antapani Wetan"
+   },
+   {
+      "kode_kelurahan": 3273141004,
+      "kode_kecamatan": 3273141,
+      "nama_kelurahan": "Antapani Kulon"
+   },
+   {
+      "kode_kelurahan": 3273142001,
+      "kode_kecamatan": 3273142,
+      "nama_kelurahan": "Jatihandap"
+   },
+   {
+      "kode_kelurahan": 3273142002,
+      "kode_kecamatan": 3273142,
+      "nama_kelurahan": "Karang Pamulang"
+   },
+   {
+      "kode_kelurahan": 3273142003,
+      "kode_kecamatan": 3273142,
+      "nama_kelurahan": "Sindang Jaya"
+   },
+   {
+      "kode_kelurahan": 3273142004,
+      "kode_kecamatan": 3273142,
+      "nama_kelurahan": "Pasir Impun"
+   },
+   {
+      "kode_kelurahan": 3273150001,
+      "kode_kecamatan": 3273150,
+      "nama_kelurahan": "Kebon Kangkung"
+   },
+   {
+      "kode_kelurahan": 3273150002,
+      "kode_kecamatan": 3273150,
+      "nama_kelurahan": "Sukapura"
+   },
+   {
+      "kode_kelurahan": 3273150003,
+      "kode_kecamatan": 3273150,
+      "nama_kelurahan": "Kebun Jayanti"
+   },
+   {
+      "kode_kelurahan": 3273150004,
+      "kode_kecamatan": 3273150,
+      "nama_kelurahan": "Babakan Sari"
+   },
+   {
+      "kode_kelurahan": 3273150005,
+      "kode_kecamatan": 3273150,
+      "nama_kelurahan": "Babakan Surabaya"
+   },
+   {
+      "kode_kelurahan": 3273150006,
+      "kode_kecamatan": 3273150,
+      "nama_kelurahan": "Cicaheum"
+   },
+   {
+      "kode_kelurahan": 3273160002,
+      "kode_kecamatan": 3273160,
+      "nama_kelurahan": "Binong"
+   },
+   {
+      "kode_kelurahan": 3273160003,
+      "kode_kecamatan": 3273160,
+      "nama_kelurahan": "Kebon Gedang"
+   },
+   {
+      "kode_kelurahan": 3273160004,
+      "kode_kecamatan": 3273160,
+      "nama_kelurahan": "Maleer"
+   },
+   {
+      "kode_kelurahan": 3273160005,
+      "kode_kecamatan": 3273160,
+      "nama_kelurahan": "Cibangkong"
+   },
+   {
+      "kode_kelurahan": 3273160006,
+      "kode_kecamatan": 3273160,
+      "nama_kelurahan": "Samoja"
+   },
+   {
+      "kode_kelurahan": 3273160007,
+      "kode_kecamatan": 3273160,
+      "nama_kelurahan": "Kacapiring"
+   },
+   {
+      "kode_kelurahan": 3273160008,
+      "kode_kecamatan": 3273160,
+      "nama_kelurahan": "Kebon Waru"
+   },
+   {
+      "kode_kelurahan": 3273170001,
+      "kode_kecamatan": 3273170,
+      "nama_kelurahan": "Braga"
+   },
+   {
+      "kode_kelurahan": 3273170002,
+      "kode_kecamatan": 3273170,
+      "nama_kelurahan": "Kebon Pisang"
+   },
+   {
+      "kode_kelurahan": 3273170003,
+      "kode_kecamatan": 3273170,
+      "nama_kelurahan": "Merdeka"
+   },
+   {
+      "kode_kelurahan": 3273170004,
+      "kode_kecamatan": 3273170,
+      "nama_kelurahan": "Babakan Ciamis"
+   },
+   {
+      "kode_kelurahan": 3273180001,
+      "kode_kecamatan": 3273180,
+      "nama_kelurahan": "Campaka"
+   },
+   {
+      "kode_kelurahan": 3273180002,
+      "kode_kecamatan": 3273180,
+      "nama_kelurahan": "Maleber"
+   },
+   {
+      "kode_kelurahan": 3273180003,
+      "kode_kecamatan": 3273180,
+      "nama_kelurahan": "Garuda"
+   },
+   {
+      "kode_kelurahan": 3273180004,
+      "kode_kecamatan": 3273180,
+      "nama_kelurahan": "Dungus Cariang"
+   },
+   {
+      "kode_kelurahan": 3273180005,
+      "kode_kecamatan": 3273180,
+      "nama_kelurahan": "Ciroyom"
+   },
+   {
+      "kode_kelurahan": 3273180006,
+      "kode_kecamatan": 3273180,
+      "nama_kelurahan": "Kebon Jeruk"
+   },
+   {
+      "kode_kelurahan": 3273190001,
+      "kode_kecamatan": 3273190,
+      "nama_kelurahan": "Arjuna"
+   },
+   {
+      "kode_kelurahan": 3273190002,
+      "kode_kecamatan": 3273190,
+      "nama_kelurahan": "Pasirkaliki"
+   },
+   {
+      "kode_kelurahan": 3273190003,
+      "kode_kecamatan": 3273190,
+      "nama_kelurahan": "Pamoyanan"
+   },
+   {
+      "kode_kelurahan": 3273190004,
+      "kode_kecamatan": 3273190,
+      "nama_kelurahan": "Pajajaran"
+   },
+   {
+      "kode_kelurahan": 3273190005,
+      "kode_kecamatan": 3273190,
+      "nama_kelurahan": "Husen Sastranegara"
+   },
+   {
+      "kode_kelurahan": 3273190006,
+      "kode_kecamatan": 3273190,
+      "nama_kelurahan": "Sukaraja"
+   },
+   {
+      "kode_kelurahan": 3273200001,
+      "kode_kecamatan": 3273200,
+      "nama_kelurahan": "Taman Sari"
+   },
+   {
+      "kode_kelurahan": 3273200002,
+      "kode_kecamatan": 3273200,
+      "nama_kelurahan": "Citarum"
+   },
+   {
+      "kode_kelurahan": 3273200003,
+      "kode_kecamatan": 3273200,
+      "nama_kelurahan": "Cihapit"
+   },
+   {
+      "kode_kelurahan": 3273210001,
+      "kode_kecamatan": 3273210,
+      "nama_kelurahan": "Sukamaju"
+   },
+   {
+      "kode_kelurahan": 3273210002,
+      "kode_kecamatan": 3273210,
+      "nama_kelurahan": "Cicadas"
+   },
+   {
+      "kode_kelurahan": 3273210003,
+      "kode_kecamatan": 3273210,
+      "nama_kelurahan": "Cikutra"
+   },
+   {
+      "kode_kelurahan": 3273210004,
+      "kode_kecamatan": 3273210,
+      "nama_kelurahan": "Padasuka"
+   },
+   {
+      "kode_kelurahan": 3273210005,
+      "kode_kecamatan": 3273210,
+      "nama_kelurahan": "Pasirlayung"
+   },
+   {
+      "kode_kelurahan": 3273210006,
+      "kode_kecamatan": 3273210,
+      "nama_kelurahan": "Sukapada"
+   },
+   {
+      "kode_kelurahan": 3273220001,
+      "kode_kecamatan": 3273220,
+      "nama_kelurahan": "Cihaurgeulis"
+   },
+   {
+      "kode_kelurahan": 3273220002,
+      "kode_kecamatan": 3273220,
+      "nama_kelurahan": "Sukaluyu"
+   },
+   {
+      "kode_kelurahan": 3273220003,
+      "kode_kecamatan": 3273220,
+      "nama_kelurahan": "Neglasari"
+   },
+   {
+      "kode_kelurahan": 3273220004,
+      "kode_kecamatan": 3273220,
+      "nama_kelurahan": "Cigadung"
+   },
+   {
+      "kode_kelurahan": 3273230001,
+      "kode_kecamatan": 3273230,
+      "nama_kelurahan": "Cipaganti"
+   },
+   {
+      "kode_kelurahan": 3273230002,
+      "kode_kecamatan": 3273230,
+      "nama_kelurahan": "Lebak Siliwangi"
+   },
+   {
+      "kode_kelurahan": 3273230003,
+      "kode_kecamatan": 3273230,
+      "nama_kelurahan": "Lebak Gede"
+   },
+   {
+      "kode_kelurahan": 3273230004,
+      "kode_kecamatan": 3273230,
+      "nama_kelurahan": "Sadang Serang"
+   },
+   {
+      "kode_kelurahan": 3273230005,
+      "kode_kecamatan": 3273230,
+      "nama_kelurahan": "Sekeloa"
+   },
+   {
+      "kode_kelurahan": 3273230006,
+      "kode_kecamatan": 3273230,
+      "nama_kelurahan": "Dago"
+   },
+   {
+      "kode_kelurahan": 3273240001,
+      "kode_kecamatan": 3273240,
+      "nama_kelurahan": "Sukawarna"
+   },
+   {
+      "kode_kelurahan": 3273240002,
+      "kode_kecamatan": 3273240,
+      "nama_kelurahan": "Sukagalih"
+   },
+   {
+      "kode_kelurahan": 3273240003,
+      "kode_kecamatan": 3273240,
+      "nama_kelurahan": "Sukabungah"
+   },
+   {
+      "kode_kelurahan": 3273240004,
+      "kode_kecamatan": 3273240,
+      "nama_kelurahan": "Cipedes"
+   },
+   {
+      "kode_kelurahan": 3273240005,
+      "kode_kecamatan": 3273240,
+      "nama_kelurahan": "Pasteur"
+   },
+   {
+      "kode_kelurahan": 3273250001,
+      "kode_kecamatan": 3273250,
+      "nama_kelurahan": "Sarijadi"
+   },
+   {
+      "kode_kelurahan": 3273250002,
+      "kode_kecamatan": 3273250,
+      "nama_kelurahan": "Sukarasa"
+   },
+   {
+      "kode_kelurahan": 3273250003,
+      "kode_kecamatan": 3273250,
+      "nama_kelurahan": "Gegerkalong"
+   },
+   {
+      "kode_kelurahan": 3273250004,
+      "kode_kecamatan": 3273250,
+      "nama_kelurahan": "Isola"
+   },
+   {
+      "kode_kelurahan": 3273260001,
+      "kode_kecamatan": 3273260,
+      "nama_kelurahan": "Hegarmanah"
+   },
+   {
+      "kode_kelurahan": 3273260002,
+      "kode_kecamatan": 3273260,
+      "nama_kelurahan": "Ciumbuleuit"
+   }
+]

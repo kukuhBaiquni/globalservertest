@@ -16,7 +16,8 @@ const customer = new Schema({
         coordinates: {
             latitude: { type: Number, default: 0 },
             longitude: { type: Number, default: 0 }
-        }
+        },
+        zoneCode: String
     },
     phone: String
 });
