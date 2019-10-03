@@ -1,15 +1,15 @@
 const express = require("express");
 const router = express.Router();
 const Customer = require("../models/customer");
-const fs = require('fs');
-const path = require('path');
+const fs = require("fs");
+const path = require("path");
 
 router.post("/create-customer", (req, res) => {
     const data = Object.assign({}, req.body, {
         join: Date.now(),
         address: {
             ...req.body.address,
-            zoneCode: 'C1W1D1'
+            zoneCode: "C1W1D1"
         }
     });
     const newCustomer = new Customer(data);
@@ -63,7 +63,7 @@ router.get("/dump-data", async (req, res) => {
     try {
         const response = await Customer.find();
         const target = JSON.stringify(response, null, 3);
-        const data = fs.writeFileSync('data.json', target);
+        const data = fs.writeFileSync("data.json", target);
         res.status(200).json({
             success: true,
             data
@@ -71,30 +71,30 @@ router.get("/dump-data", async (req, res) => {
     } catch(error) {
         res.status(400).json({
             success: false,
-            error: 'Error Tjug'
+            error: "Error Tjug"
         })
     }
 });
 
 router.get("/download-json", (req, res) => {
     try {
-        const file = 'data.json';
+        const file = "data.json";
         res.download(file)
     } catch(error) {
         console.log(error)
         res.status(500).json({
             success: false,
-            error: 'Error tjug'
+            error: "Error tjug"
         });
     }
 });
 
 router.get("/bulk-insert", (req, res) => {
-    const target = path.join(__dirname, '../data.json');
-    const data = JSON.parse(fs.readFileSync(target, 'utf-8'));
+    const target = path.join(__dirname, "../data.json");
+    const data = JSON.parse(fs.readFileSync(target, "utf-8"));
     console.log(data);
     Customer.insertMany(data, (err, customer) => {
-        res.json({ message: 'OK!'});
+        res.json({ message: "OK!"});
     });
 });
 
