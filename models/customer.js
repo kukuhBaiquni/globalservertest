@@ -90,6 +90,27 @@ const customer = new Schema({
         match: /^[0-9]+$/,
         minlength: 10,
         maxlength: 13
+    },
+    defaultOrderPattern: [0],
+    defaultAverageOrder: {
+        type: Number,
+        default: 0
+    },
+    customAverageOrder: {
+        type: Number,
+        default: 0
+    },
+    manualAverageOrder: {
+        type: Number,
+        default: 0
+    },
+    group: {
+        type: String,
+        default: "CB1"
+    },
+    estimatedNextOrder: {
+        type: Number,
+        default: 0
     }
 });
 

@@ -1,8 +1,15 @@
 const express = require("express");
+const cron = require('node-cron');
 const router = express.Router();
 const Customer = require("../models/customer");
 const fs = require("fs");
 const path = require("path");
+
+router.get("/", (req, res) => {
+    res.status(200).json({
+        message: 'Hello Gabon!'
+    });
+});
 
 router.post("/create-customer", (req, res) => {
     const data = Object.assign({}, req.body, {
@@ -72,7 +79,7 @@ router.get("/dump-data", async (req, res) => {
         res.status(400).json({
             success: false,
             error: "Error Tjug"
-        })
+        });
     }
 });
 
@@ -96,6 +103,29 @@ router.get("/bulk-insert", (req, res) => {
     Customer.insertMany(data, (err, customer) => {
         res.json({ message: "OK!"});
     });
+});
+
+router.get("/estimate-order/:month/:year", async (req, res) => {
+    // Transaction per month = 10;
+    try {
+        const targetMonth = req.params.month;
+        const targetYear = req.params.year;
+        let transaction = await Transaction.find({
+            $and: [
+                { 'time.m': targetMonth },
+                { 'time.y': targetYear }
+            ]
+        });
+
+    } catch(error) {
+        res.status(500).json({
+            error: 'Error'
+        });
+    }
+});
+ 
+cron.schedule('* * * * *', () => {
+  console.log(`test: ${new Date()}`);
 });
 
 module.exports = router;
