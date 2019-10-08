@@ -1,5 +1,5 @@
 const express = require("express");
-const cron = require('node-cron');
+const cron = require("node-cron");
 const router = express.Router();
 const Customer = require("../models/customer");
 const fs = require("fs");
@@ -7,7 +7,7 @@ const path = require("path");
 
 router.get("/", (req, res) => {
     res.status(200).json({
-        message: 'Hello Gabon!'
+        message: "Hello Gabon!"
     });
 });
 
@@ -112,19 +112,26 @@ router.get("/estimate-order/:month/:year", async (req, res) => {
         const targetYear = req.params.year;
         let transaction = await Transaction.find({
             $and: [
-                { 'time.m': targetMonth },
-                { 'time.y': targetYear }
+                { "time.m": targetMonth },
+                { "time.y": targetYear }
             ]
         });
 
     } catch(error) {
         res.status(500).json({
-            error: 'Error'
+            error: "Error"
         });
     }
 });
+
+router.post("/create-user", (req, res) => {
+    console.log(req.query)
+    res.status(200).json({
+        message: "Galat"
+    })
+})
  
-cron.schedule('* * * * *', () => {
+cron.schedule("* * * * *", () => {
   console.log(`test: ${new Date()}`);
 });
 
