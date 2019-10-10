@@ -5,6 +5,10 @@ const Customer = require("../models/customer");
 const fs = require("fs");
 const path = require("path");
 
+const axios = require('axios');
+const cheerio = require('cheerio');
+const puppeteer = require('puppeteer');
+
 router.get("/", (req, res) => {
     res.status(200).json({
         message: "Hello Gabon!"
@@ -128,9 +132,46 @@ router.post("/create-user", (req, res) => {
     console.log(req.query)
     res.status(200).json({
         message: "Galat"
-    })
+    });
+});
+
+router.get("/scraping", async (req, res) => {
+    const testUrl = 'https://www.npmjs.com/package/nickjs';
+    const targetUrl = 'https://www.kayak.co.id/hotels/Bandung,West-Java,Indonesia/2019-10-10/2019-10-11/1adults?sort=rank_a';
+    const wiki = 'https://en.wikipedia.org/wiki/Integrated_circuit';
+    try {
+        const response = await axios.get();
+        const $ = cheerio.load(response.data);
+        const child = $('.mw-parser-output').children('div:first-child').text();
+        res.status(200).json({
+            data: response.data
+        })
+    } catch(error) {
+        res.status(500).json({error})
+    }
+});
+
+const kayak = "https://www.kayak.co.id/hotels/Bandung,West-Java,Indonesia/2019-10-10/2019-10-11/1adults?sort=rank_a";
+const elwiki = "https://elwiki.net/";
+router.get("/scraping2", async (req, res) => {
+    try {
+        const browser = await puppeteer.launch({headless: false});
+        const page = await browser.newPage();
+        await page.goto(elwiki, {waitUntil: 'networkidle0'});
+        const data = await page.evaluate(() => {
+            return document.querySelector("#firstHeading").innerText();
+        });
+        res.status(200).json({
+            data
+        });
+    } catch(error) {
+        console.log(error)
+        res.status(500).json({
+            error
+        })
+    }
 })
- 
+
 cron.schedule("* * * * *", () => {
   console.log(`test: ${new Date()}`);
 });
