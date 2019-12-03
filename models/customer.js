@@ -27,6 +27,10 @@ const customer = new Schema({
         type: Number,
         default: Date.now()
     },
+    gender: {
+        type: String,
+        enum: ["MALE", "FEMALE"]
+    },
     address: {
         street: {
             type: String,
