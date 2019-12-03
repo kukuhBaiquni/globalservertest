@@ -52,13 +52,21 @@ const employee = ({
             enum: villageLevel
         }
     },
-    birth: {
-        type: Number,
-        default: 0
+    phone: {
+        type: String,
+        required: true,
+        match: /^[0-9]+$/,
+        minlength: 10,
+        maxlength: 13
     },
     identityNumber: {
         type: Number,
         default: 0
+    },
+    level: {
+        type: String,
+        default: "0",
+        enum: ["0", "1", "10"] // 0: operator/admin, 1: leader/superadmin, 10: owner
     }
 });
 
